@@ -11,7 +11,7 @@ Additionally, this system's utility extends to disaster prevention and reporting
 ![image](EchoGuard/system_arch.png)
 
 ## Result
-![image]EchoGuard/(result_1.png)
+![image](EchoGuard/result_1.png)
 
 ![image](EchoGuard/result_2.png)
 
