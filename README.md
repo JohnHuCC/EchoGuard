@@ -5,18 +5,18 @@ Leveraging the ubiquity of smartphones, this project introduces an "Emergency Re
 Additionally, this system's utility extends to disaster prevention and reporting infractions, enabling users to report incidents hands-free, such as vehicle accidents on highways, thereby promoting safety without compromising the user's current activity.
 
 ## System Flow Chart
-![image](system_flow_chart.png)
+![image](EchoGuard/system_flow_chart.png)
 
 ## System Architecture
-![image](system_arch.png)
+![image](EchoGuard/system_arch.png)
 
 ## Result
-![image](result_1.png)
+![image]EchoGuard/(result_1.png)
 
-![image](result_2.png)
+![image](EchoGuard/result_2.png)
 
-![image](result_3.png)
+![image](EchoGuard/result_3.png)
 
-![image](result_4.png)
+![image](EchoGuard/result_4.png)
 
-![image](result_5.png)
+![image](EchoGuard/result_5.png)
