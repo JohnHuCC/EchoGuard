@@ -8,9 +8,16 @@ Additionally, this system's utility extends to disaster prevention and reporting
 ![image](EchoGuard/system_flow_chart.png)
 
 ## System Architecture
+Using the Flutter frontend development framework, with Android Studio 3.5 as the development tool, and Dart as the primary programming language. Smartphones such as the Zenfone 5Z (ZS620KL) and iPhone X are utilized as cross-platform testing tools, operating on Android 10.0 and iOS 13 or higher versions, respectively.
+
+To enhance the completeness and rapid deployment of this application, we initially establish a private blockchain with an Ethereum-based Proof-of-Authority (PoA) consensus mechanism within this project. This approach provides greater flexibility for adjustments and experimentation during implementation, facilitating subsequent observation and development.
+
 ![image](EchoGuard/system_arch.png)
 
+
 ## Result
+We fully implement a voice recognition-based reporting system on mobile devices, utilizing blockchain technology in conjunction with the IPFS distributed database for data storage and verification in the backend. This effectively provides a reporting platform that balances efficiency, security, credibility, and user-friendliness. By integrating the Flutter frontend framework, the system is made accessible to users across different operating systems. In collaboration with police and fire departments, it achieves proactive campus safety deployment and enhances emergency response capabilities.
+
 ![image](EchoGuard/result_1.png)
 
 ![image](EchoGuard/result_2.png)
